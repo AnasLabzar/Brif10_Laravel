@@ -1,2 +1,2 @@
 # How To Download Laravel
-## First Step 
+## 1. First Step 

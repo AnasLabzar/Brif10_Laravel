@@ -51,9 +51,9 @@
   <summary>Installation</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#installer-composer">Download Composer</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#installer-composer">install composer (cmd)</a></li>
       </ul>
     </li>
     <li>

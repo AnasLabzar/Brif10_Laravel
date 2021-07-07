@@ -31,10 +31,10 @@
     <img src="https://api.romarkcode.com/storage/images/607403e2823251*cPt2YI-5YxhfL3_Uhw0txA.png" alt="Logo" width="70%" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Laravel</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    How To install Laravel
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />

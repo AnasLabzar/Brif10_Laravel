@@ -48,7 +48,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Installation</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>

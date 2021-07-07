@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://api.romarkcode.com/storage/images/607403e2823251*cPt2YI-5YxhfL3_Uhw0txA.png" alt="Logo" width="100%" >
+    <img src="https://api.romarkcode.com/storage/images/607403e2823251*cPt2YI-5YxhfL3_Uhw0txA.png" alt="Logo" width="70%" >
   </a>
 
   <h3 align="center">Best-README-Template</h3>
